@@ -1,4 +1,4 @@
-# Image Recognition with CIFAR-10-Dataset
+# CIFAR-10-Dataset
 CIFAR-10 ML Models
 
 This repository contains implementations of various machine learning models trained on the CIFAR-10 dataset. 
